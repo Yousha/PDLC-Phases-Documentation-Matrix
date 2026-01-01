@@ -5,6 +5,8 @@ A good reference matrix mapping documentation, diagrams, and deliverables to eac
 This shows the phases involved in producing a product (digital or physical), and within each phase, what documents and diagrams need to be created.
 So that the output of one phase becomes the input for the next phase.
 
+💡 So instead of diving straight into code, making chaos, skipping the early project stages, or hiring a product designer at first... developers can rely on this!
+
 > This framework supports both traditional waterfall projects and agile MVP/MLP development paths.
 
 ## (Ideation & Brainstorming)
@@ -210,4 +212,5 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
+
 
