@@ -2,7 +2,7 @@
 
 A good reference matrix mapping documentation, diagrams, and deliverables to each phase of the Product Development Life Cycle.
 
-This shows the phases involved in producing a product (digital or physical), and within each phase, what documents and diagrams need to be created.
+This shows the phases involved in producing a software product, and within each phase, what documents and diagrams need to be created.
 So that the output of one phase becomes the input for the next phase.
 
 💡 So instead of diving straight into code, making chaos, skipping the early project stages, or hiring a product designer at first... developers can rely on this!
@@ -93,6 +93,7 @@ So that the output of one phase becomes the input for the next phase.
   * API design and specifications
 * Diagrams:
   * User flow diagrams
+  * Design system / UI Kit
   * Data flow diagrams (L0, L1)
   * Component diagrams
   * Sequence diagrams
@@ -212,5 +213,6 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
+
 
 
