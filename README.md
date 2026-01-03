@@ -9,6 +9,19 @@ So that the output of one phase becomes the input for the next phase.
 
 > This framework supports both traditional waterfall projects and agile MVP/MLP development paths.
 
+# Contents
+
+- [Ideation & Brainstorming](#ideation--brainstorming)
+- [Phase 1 - Conception & Feasibility](#phase-1---conception--feasibility)
+- [Phase 2 - Planning & Requirements Analysis](#phase-2---planning--requirements-analysis)
+- [Phase 3 - Design](#phase-3---design)
+- [Phase 4 - Implementation](#phase-4---implementation)
+- [Phase 5 - Testing](#phase-5---testing)
+- [Phase 6 - Release & Deployment](#phase-6---release--deployment)
+- [Phase 7 - Maintenance & Improvement](#phase-7---maintenance--improvement)
+- [MVP/MLP Path](#mvpmlp-path)
+- [Notes](#notes)
+
 ## (Ideation & Brainstorming)
 
 **Goal:** Identify real problems, market opportunities, capture raw ideas, and generate initial product concepts.
@@ -213,6 +226,7 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
+
 
 
 
