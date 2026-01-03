@@ -1,6 +1,6 @@
-# PDLC Phases & Documentation Matrix
+# SDLC Phases & Documentation Matrix
 
-A good reference matrix mapping documentation, diagrams, and deliverables to each phase of the Product Development Life Cycle.
+A good reference matrix mapping documentation, diagrams, and deliverables to each phase of the Software(Product) Development Life Cycle.
 
 This shows the phases involved in producing a software product, and within each phase, what documents and diagrams need to be created.
 So that the output of one phase becomes the input for the next phase.
@@ -213,6 +213,7 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
+
 
 
 
