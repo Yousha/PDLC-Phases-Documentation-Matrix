@@ -1,6 +1,6 @@
 # SDLC Phases & Documentation Matrix
 
-A good reference matrix mapping documentation, diagrams, and deliverables to each phase of the Software(Product) Development Life Cycle.
+A good reference matrix mapping documentation, diagrams, and deliverables to each phase of the Software(Product) Development Life Cycle. (with help of AI)
 
 This shows the phases involved in producing a software product, and within each phase, what documents and diagrams need to be created.
 So that the output of one phase becomes the input for the next phase.
@@ -11,7 +11,7 @@ So that the output of one phase becomes the input for the next phase.
 
 # Contents
 
-- [Ideation & Brainstorming](#ideation--brainstorming)
+- [Phase 0 - Ideation & Brainstorming](#phase-0---ideation--brainstorming)
 - [Phase 1 - Conception & Feasibility](#phase-1---conception--feasibility)
 - [Phase 2 - Planning & Requirements Analysis](#phase-2---planning--requirements-analysis)
 - [Phase 3 - Design](#phase-3---design)
@@ -22,7 +22,7 @@ So that the output of one phase becomes the input for the next phase.
 - [MVP/MLP Path](#mvpmlp-path)
 - [Notes](#notes)
 
-## (Ideation & Brainstorming)
+## Phase 0 - Ideation & Brainstorming
 
 **Goal:** Identify real problems, market opportunities, capture raw ideas, and generate initial product concepts.
 
@@ -226,6 +226,7 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
+
 
 
 
