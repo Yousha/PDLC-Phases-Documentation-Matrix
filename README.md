@@ -31,6 +31,8 @@ So that the output of one phase becomes the input for the next phase.
 * Documents:
   * Ideas list
   * Research report
+  * Market Validation Report
+  * Risk register
   * JTBD
   * High-level user interview
 * Diagrams:
@@ -52,6 +54,7 @@ So that the output of one phase becomes the input for the next phase.
   * Project charter
   * High-level timeline roadmap
   * Feasibility study report
+  * ROI Projection
   * Initial stakeholder register
   * Initial product requirements document (PRD)
   * Business case
@@ -74,6 +77,7 @@ So that the output of one phase becomes the input for the next phase.
 * Documents:
   * Software requirements specification (SRS) – functional & non-functional
   * Full PRD
+  * Performance Requirements Specification (PRS)
   * High-level security requirements
   * User stories with acceptance criteria
   * Requirements traceability matrix (RTM)
@@ -102,6 +106,7 @@ So that the output of one phase becomes the input for the next phase.
   * UI/UX design specifications
   * Security architecture
   * Deployment architecture
+  * Scalability Documentation
   * Architecture decision records (ADRs)
   * API design and specifications
 * Diagrams:
@@ -128,6 +133,9 @@ So that the output of one phase becomes the input for the next phase.
 
 * Documents:
   * Developer guides
+  * Code review checklist
+  * Dependency update policy
+  * DevOps Pipeline Documentation
   * Coding standards
 * Diagrams:
   * Updated user flows
@@ -152,6 +160,7 @@ So that the output of one phase becomes the input for the next phase.
   * Test plans
   * Test cases
   * Test results and reports
+  * Security test report
 * Diagrams:
   * Issue lifecycle flow
 
@@ -171,6 +180,7 @@ So that the output of one phase becomes the input for the next phase.
 * Documents:
   * Release process documentation
   * Deployment runbook
+  * Versioning scheme
   * Rollback procedure
   * End-user guides
   * Installation guide
@@ -198,6 +208,7 @@ So that the output of one phase becomes the input for the next phase.
   * Backup and disaster recovery procedures
   * Vulnerability disclosure policy
   * Operations runbooks
+  * Technical debt register
   * Compliance checklist
 * Diagrams:
   * Incident response workflow
@@ -222,13 +233,26 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 | **Release/Deployment**      | Release Checklist • Rollback Plan • Release Notes Template |
 | **Maintenance/Improvement** | Monitoring Specification • SLOs • Incident Runbook • On-call Rota |
 
+## **Abbreviations & Terms**
+
+| Abbreviation | Meaning |
+|--------------|---------|
+| SRS          | Software Requirements Specification |
+| PRD          | Product Requirements Document |
+| TSD          | Technical Specification Document |
+| ADR          | Architecture Decision Record |
+| ERD          | Entity-Relationship Diagram |
+| RTM          | Requirements Traceability Matrix |
+| CI/CD        | Continuous Integration/Continuous Deployment |
+| SLO          | Service Level Objective |
+| JTBD         | Jobs To Be Done |
+| MVP          | Minimum Viable Product |
+| MLP          | Minimum Lovable Product |
+| PoC          | Proof of Concept |
+| QA           | Quality Assurance |
+| UI/UX        | User Interface/User Experience |
+
 ### Notes
 
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
-
-
-
-
-
-
