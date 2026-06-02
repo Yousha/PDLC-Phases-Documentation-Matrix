@@ -7,7 +7,7 @@ So that the output of one phase becomes the input for the next phase.
 
 💡 So instead of diving straight into code, making chaos, skipping the early project stages, or hiring a product designer at first... developers can rely on this!
 
-> This framework supports both traditional waterfall projects and agile MVP/MLP development paths.
+> This framework supports both traditional waterfall projects and agile MVP/MLP/SLC development paths.
 
 # Contents
 
@@ -19,7 +19,7 @@ So that the output of one phase becomes the input for the next phase.
 - [Phase 5 - Testing](#phase-5---testing)
 - [Phase 6 - Release & Deployment](#phase-6---release--deployment)
 - [Phase 7 - Maintenance & Improvement](#phase-7---maintenance--improvement)
-- [MVP/MLP Path](#mvpmlp-path)
+- [MVP/MLP/SLC Path](#mvpmlpslc-path)
 - [Notes](#notes)
 
 ## Phase 0 - Ideation & Brainstorming
@@ -219,7 +219,7 @@ So that the output of one phase becomes the input for the next phase.
 * Diagrams
 * Reports
 
-## **MVP/MLP Path**
+## **MVP/MLP/SLC Path**
 
 For fast-paced or resource-constrained projects, focus on these essentials:
 
@@ -248,6 +248,7 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 | JTBD         | Jobs To Be Done |
 | MVP          | Minimum Viable Product |
 | MLP          | Minimum Lovable Product |
+| SLC          | Simple, Lovable, Complete |
 | PoC          | Proof of Concept |
 | QA           | Quality Assurance |
 | UI/UX        | User Interface/User Experience |
