@@ -59,7 +59,7 @@ So that the output of one phase becomes the input for the next phase.
   * Initial product requirements document (PRD)
   * Business case
 * Diagrams:
-  * System context digram (L1)
+  * System context diagram (L1)
   * High-level feature map
   * Business process flow diagram
 
@@ -219,7 +219,7 @@ So that the output of one phase becomes the input for the next phase.
 * Diagrams
 * Reports
 
-## **MVP/MLP/SLC Path**
+## MVP/MLP/SLC Path
 
 For fast-paced or resource-constrained projects, focus on these essentials:
 
@@ -258,4 +258,4 @@ For fast-paced or resource-constrained projects, focus on these essentials:
 * **Full matrix:** for regulated/enterprise projects requiring thorough documentation.
 * **MVP/MLP path:** for agile/startup environments or initial product versions.
 
-https://github.com/Yousha/PDLC-Phases-Documentation-Matrix/
+[GitHub repository](https://github.com/Yousha/PDLC-Phases-Documentation-Matrix/)
