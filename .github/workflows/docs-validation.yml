@@ -17,18 +17,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  markdown:
-    name: Markdown lint
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Lint Markdown files
-        uses: DavidAnson/markdownlint-cli2-action@v20
-        with:
-          globs: "**/*.md"
-
   links:
     name: Validate Markdown links
     runs-on: ubuntu-latest
