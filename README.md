@@ -9,7 +9,7 @@ So that the output of one phase becomes the input for the next phase.
 
 > This framework supports both traditional waterfall projects and agile MVP/MLP/SLC development paths.
 
-# Contents
+## Contents
 
 - [Phase 0 - Ideation & Brainstorming](#phase-0---ideation--brainstorming)
 - [Phase 1 - Conception & Feasibility](#phase-1---conception--feasibility)
